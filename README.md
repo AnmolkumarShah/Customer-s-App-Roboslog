@@ -1,16 +1,6 @@
-# admin_app
+# Customer's App
 
-A new Flutter project.
+This App was made by Anmolkumar for Robosolog Startup while in a Internship provided by Internshala platform.
+This is a customers app, means this app is to be distributed to the customers of the store, they can buy, make favourite, add to cart, increment - decrement item count,view orders,get all realtime status of their order and more from this app.
+App is highly scalable and features and be added more on requirements.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
